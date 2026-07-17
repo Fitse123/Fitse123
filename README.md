@@ -28,7 +28,7 @@
   <a href="https://github.com/Fitse123">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/fitsum-belay)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:fitsebelay792@gmail.com">
@@ -64,7 +64,7 @@
           🤖 Building <strong>AI-powered IT solutions</strong><br><br>
           📊 Exploring <strong>Data Science</strong> & <strong>Analytics</strong><br><br>
           ☁️ Learning <strong>Cloud Architecture</strong> (AWS, Azure)<br><br>
-          🏗️ Developing <strong>Scalable Applications</strong>
+          🏗️ Developing <strong>Interactive websites</strong>
         </p>
       </td>
     </tr>
@@ -82,25 +82,23 @@
         <h3>🖥️ Languages</h3>
         <img src="https://skillicons.dev/icons?i=python,js,html,css" />
         <br>
-        <img src="https://img.shields.io/badge/Python-Expert-4F46E5?style=flat-square" />
+        <img src="https://img.shields.io/badge/html-Expert-4F46E5?style=flat-square" />
         <br>
         <img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat-square" />
+        <br>
+        <img src="https://img.shields.io/badge/python-Intermediate-F7DF1E?style=flat-square" />
       </td>
       <td align="center" width="33%">
         <h3>📚 Frameworks</h3>
         <img src="https://skillicons.dev/icons?i=flask,react,vue,nodejs" />
         <br>
-        <img src="https://img.shields.io/badge/Flask-Expert-4F46E5?style=flat-square" />
+        <img src="https://img.shields.io/badge/React-Expert-4F46E5?style=flat-square" />
         <br>
-        <img src="https://img.shields.io/badge/React-Intermediate-61DAFB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Flask-Intermediate-61DAFB?style=flat-square" />
       </td>
       <td align="center" width="33%">
         <h3>🧠 ML & Data</h3>
         <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-        <br>
-        <img src="https://img.shields.io/badge/Scikit--learn-Expert-F7931E?style=flat-square" />
-        <br>
-        <img src="https://img.shields.io/badge/Pandas-Advanced-150458?style=flat-square" />
       </td>
     </tr>
     <tr>
@@ -117,8 +115,6 @@
         <img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
         <br>
         <img src="https://img.shields.io/badge/Git-Expert-F05032?style=flat-square" />
-        <br>
-        <img src="https://img.shields.io/badge/Docker-Intermediate-2496ED?style=flat-square" />
       </td>
       <td align="center">
         <h3>🎨 Design</h3>
@@ -126,7 +122,7 @@
         <br>
         <img src="https://img.shields.io/badge/Figma-Intermediate-F24E1E?style=flat-square" />
         <br>
-        <img src="https://img.shields.io/badge/UI/UX-Advanced-4F46E5?style=flat-square" />
+        <img src="https://img.shields.io/badge/UI/UX-Intermediate-4F46E5?style=flat-square" />
       </td>
     </tr>
   </table>
