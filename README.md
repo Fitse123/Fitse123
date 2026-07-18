@@ -302,28 +302,28 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://linkedin.com/in/your-profile">
+        <a href="https://linkedin.com/in/fitsum-belay">
           <img src="https://img.icons8.com/color/60/000000/linkedin.png" />
           <br>
           <strong>LinkedIn</strong>
         </a>
       </td>
       <td align="center">
-        <a href="mailto:your-email@example.com">
+        <a href="mailto:fitsebelay792@gmail.com">
           <img src="https://img.icons8.com/color/60/000000/gmail-new.png" />
           <br>
           <strong>Email</strong>
         </a>
       </td>
       <td align="center">
-        <a href="https://twitter.com/your-handle">
+        <a href="https://twitter.com/F_Aftermath">
           <img src="https://img.icons8.com/color/60/000000/twitter--v1.png" />
           <br>
           <strong>Twitter</strong>
         </a>
       </td>
       <td align="center">
-        <a href="https://your-portfolio.com">
+        <a href="https://fitse-portfolio.netlify.app">
           <img src="https://img.icons8.com/color/60/000000/portfolio.png" />
           <br>
           <strong>Portfolio</strong>
@@ -343,7 +343,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="30" /> **Support Me**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="30" /> 
 
 
 
