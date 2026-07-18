@@ -17,10 +17,18 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fitse123&style=for-the-badge&color=4F46E5&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Fitse123?style=for-the-badge&logo=github&color=4F46E5" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Fitse123?style=for-the-badge&logo=github&color=4F46E5" alt="GitHub Stars" />
-  <img src="https://img.shields.io/badge/Status-Active-4F46E5?style=for-the-badge" alt="Status" />
+  <a href="https://github.com/Fitse123?tab=followers">
+    <img src="https://komarev.com/ghpvc/?username=Fitse123&style=for-the-badge&color=4F46E5&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/Fitse123?tab=followers">
+    <img src="https://img.shields.io/github/followers/Fitse123?style=for-the-badge&logo=github&color=4F46E5" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Fitse123?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Fitse123?style=for-the-badge&logo=github&color=4F46E5" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/Fitse123">
+    <img src="https://img.shields.io/badge/Status-Active-4F46E5?style=for-the-badge" alt="Status" />
+  </a>
 </p>
 
 <!-- SOCIAL MEDIA BANNER -->
@@ -337,15 +345,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="30" /> **Support Me**
 
-<div align="center">
-  <p>If you find my work valuable, consider:</p>
-  <a href="https://github.com/sponsors/Fitse123">
-    <img src="https://img.shields.io/badge/Sponsor-💖-4F46E5?style=for-the-badge" />
-  </a>
-  <a href="https://buymeacoffee.com/your-handle">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-☕-FFDD00?style=for-the-badge" />
-  </a>
-</div>
+
 
 ---
 
