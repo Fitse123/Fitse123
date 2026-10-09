@@ -357,7 +357,11 @@
 <div align="center">
   <strong>🌟 Thanks for visiting! Let's build something amazing together! 🌟</strong>
   <br><br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/White%20Heavy%20Check%20Mark.png" alt="Check Mark" width="20" />
+  <img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/White%20Heavy%20Check%20Mark.png"
+  alt="Check Mark"
+  width="20"
+/>
   <strong>Fitse123</strong>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/White%20Heavy%20Check%20Mark.png" alt="Check Mark" width="20" />
 </div>
