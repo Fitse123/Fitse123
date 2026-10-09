@@ -358,6 +358,6 @@
   <strong>🌟 Thanks for visiting! Let's build something amazing together! 🌟</strong>
   <br><br>
  <span style="color: #22c55e; font-size: 20px;">✓</span>
-  <strong>Fitse123</strong>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/White%20Heavy%20Check%20Mark.png" alt="Check Mark" width="20" />
+  <strong><a href="https://github.com/Fitse123">Fitse123</strong>
+  
 </div>
