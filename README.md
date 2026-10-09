@@ -358,6 +358,6 @@
   <strong>🌟 Thanks for visiting! Let's build something amazing together! 🌟</strong>
   <br><br>
  <span style="color: #22c55e; font-size: 20px;">✓</span>
-  <strong><a href="https://github.com/Fitse123">Fitse123</strong>
+  <strong>Fitsum Belay</strong>
   
 </div>
